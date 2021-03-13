@@ -1,1 +1,1 @@
-# Phishig-URL-detection
+# Phishing-URL-detection
